@@ -31,7 +31,7 @@
             <span class="badge badge-success">${containerip}</span>
           </p>
           <p>
-            Cloud Academy is an enterprise-ready training platform that accelerates teams and digital transformation.
+            Cloud Training is an enterprise-ready training platform that accelerates teams and digital transformation.
             Leverage our multi-cloud training library to move faster.
             Skills are built when knowledge, experience, and context intersect. Our vendor neutral training catalog is developed and maintained by experts on AWS, Azure, GCP, CI/CD, containers, security, IoT, data science, machine learning, big data, and beyond.
 
