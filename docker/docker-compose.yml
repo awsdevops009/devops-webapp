@@ -2,7 +2,7 @@ version: "3.5"
 services:
   webapp:
     container_name: webapp
-    image: cloudacademydevops/webapp:latest
+    image: mytestdevops/webapp:latest
     networks:
       - devnetwork
     ports:
